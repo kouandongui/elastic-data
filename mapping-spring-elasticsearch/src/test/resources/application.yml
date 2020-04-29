@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sample-spring-elasticsearch
+  data:
+    elasticsearch:
+      cluster-name:
+      cluster-nodes:
